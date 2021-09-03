@@ -1,0 +1,5 @@
+READ-ME
+Team Members:- Shreyas, Sohini, Ragav, Pranav and Vaidheesh
+
+The Program inputs the temperature of a person, and they will be required to input the name of the disease from the pre-selected list.
+Once the input is done, appropriate medicines and steps will be uploaded.
